@@ -13,3 +13,5 @@
 /defmplabxtrace.log
 /defmplabxtrace.log.inx
 /dist/
+/queuelogs/
+/dsPIC33CK_BLDC_Motor/
